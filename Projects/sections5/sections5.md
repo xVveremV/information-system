@@ -1,7 +1,6 @@
-## User Stories у UML-нотації
+## Розділ 5. User Stories у UML-нотації
 
 ## Студент
-
 ```mermaid
 flowchart TD
     Start([Початок]) --> A[Авторизація]
@@ -18,7 +17,6 @@ flowchart TD
 ```
 
 ## Психолог
-
 ```mermaid
 flowchart TD
     A[Початок] --> B[Авторизація]
@@ -30,7 +28,6 @@ flowchart TD
 ```
 
 ## Адміністратор
-
 ```mermaid
 flowchart TD
     A[Початок] --> B[Авторизація]
