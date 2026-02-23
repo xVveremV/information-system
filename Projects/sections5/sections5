@@ -19,7 +19,7 @@ flowchart TD
 
 ## Психолог
 
-```meamaid
+```mermaid
 flowchart TD
     A[Початок] --> B[Авторизація]
     B --> C[Перегляд записів]
